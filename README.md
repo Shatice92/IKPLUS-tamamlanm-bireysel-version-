@@ -1,4 +1,4 @@
-# İnsan Kaynakları Yönetimi Platformu IKPLUS – Tamamlanmış Versiyon  
+# İnsan Kaynakları Yönetimi Platformu IKPLUS – Tamamlanmış Bireysel Versiyon  
 
 Bu proje, başlangıçta bir grup çalışması olarak başladı ancak daha sonra bireysel olarak tamamlandı.  
 Eksik özellikler tamamlandı, performans iyileştirmeleri yapıldı ve yeni özellikler eklendi.
